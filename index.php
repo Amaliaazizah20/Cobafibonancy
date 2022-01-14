@@ -17,3 +17,5 @@
         $angka_ketiga =$hasil;
 
     }
+
+    ?>
